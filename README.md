@@ -14,3 +14,4 @@ contract StepCounter {
         count--;
     }
 }
+Add 20 simple contracts for practice
