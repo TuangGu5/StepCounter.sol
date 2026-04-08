@@ -17,3 +17,4 @@ contract StepCounter {
 Add 20 simple contracts for practice
 Improve gas efficiency
 Fix overflow issue
+Add getter function
