@@ -19,3 +19,4 @@ Improve gas efficiency
 Fix overflow issue
 Add getter function
 Update setter logic
+Fix edge scenario
